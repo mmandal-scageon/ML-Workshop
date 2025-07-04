@@ -1,0 +1,1 @@
+Diabetes Prediction -> https://colab.research.google.com/drive/185xgCZS4eKCkyggeBqwmD7ridJaKDeBp?usp=sharing
